@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEV+fNsCQf/LInDsmjLe8yFpE3jLlCtHs7q19xHb5KGKqdy2WTDHyGp3Ac8f2GMplXcDRIh4nsryQz7SZ23CpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sitru\\Desktop\\bootcamp\\Continuation Courses\\C#\\CatWorx.BadgeMaker\\CatWorx.BadgeMaker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sitru\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\sitru\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\sitru\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
